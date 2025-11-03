@@ -1,16 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yan. <br/><br/> A fullstack developer and instructor </h1>
+<h1 align="center">Hi 👋, I'm Pedro. <br/><br/> o </h1>
 
-<h3 align="center">My portifolio:</h3>
-<p align="center">
-<a href="https://neon-code-yan.lovable.app" target="blank">
-  <img align="center" src="https://icons.iconarchive.com/icons/graphicloads/seo-services/256/services-portfolio-icon.png" alt="jose-almir" height="50" width="40" />
-</a>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/yan-barbosa-72a544250" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-almir" height="30" width="40" />
-</a>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
